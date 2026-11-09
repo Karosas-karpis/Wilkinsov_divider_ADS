@@ -1,0 +1,4 @@
+INCLUDE $HPEESOF_DIR/oalibs/analog_rf.defs
+INCLUDE $HPEESOF_DIR/oalibs/dsp.defs
+DEFINE Wilkinsono_workspaceads_lib Wilkinsono_workspaceads_lib
+ASSIGN Wilkinsono_workspaceads_lib libMode shared
